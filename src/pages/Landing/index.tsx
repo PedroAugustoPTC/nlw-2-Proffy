@@ -12,7 +12,7 @@ import './styles.css';
 function Landing() {
     return (
         <div id="page-landing">
-            <div id="pade-landing-content" className="container">
+            <div id="page-landing-content" className="container">
                 <div className="logo-container">
                     <img 
                         src={logoImg} 
